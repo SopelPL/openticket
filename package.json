@@ -1,0 +1,34 @@
+{
+  "name": "openticket",
+  "version": "1.0.0",
+  "description": "Open Ticket is free open source ticket system based on Nodejs",
+  "main": "index.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.8",
+    "prompt": "^1.0.0",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./src",
+    "install": "node ./src/install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychoo102/openticket.git"
+  },
+  "keywords": [
+    "ticket",
+    "free",
+    "opensource"
+  ],
+  "author": "Dominik 'psycho' Panek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psychoo102/openticket/issues"
+  },
+  "homepage": "https://github.com/psychoo102/openticket#readme"
+}
