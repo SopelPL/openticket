@@ -1,9 +1,13 @@
 {
-    "title": "",
+    "site": {
+        "title": "Open Ticket",
+        "url": "http://localhost",
+        "template": "default"
+    },
     "db": {
-        "host": "",
-        "user": "",
-        "password": "",
-        "name": ""
+        "host": "localhost",
+        "user": "user",
+        "password": "pass",
+        "name": "openticket"
     }
 }
